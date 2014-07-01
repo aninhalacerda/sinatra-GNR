@@ -1,0 +1,12 @@
+doctype html
+html
+  head
+    meta charset="utf-8"
+    title Bolao GNR    
+  body 
+    h1 Bolão Geek Night!
+    h2 Apostas:
+    ul
+    // Itera sobre as apostas que foram recuperadas pela rota
+    - @apostas.each do |aposta|
+      li= "#{aposta.nome} : Brasil #{aposta.gols_time1} x #{aposta.gols_time2} Colombia"
