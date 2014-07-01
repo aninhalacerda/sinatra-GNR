@@ -6,6 +6,4 @@ O Tutorial está disponível em: [http://bit.ly/sinatra-geeknightrecife](http://
 
 ---
 
-Dúvidas ou Sugestões? Por favor, entre em contato:  
-anaclara.lacerdas@gmail.com  
-[github.com/aninhalacerda](github.com/aninhalacerda)
+Dúvidas ou Sugestões? Por favor, entre em contato.
